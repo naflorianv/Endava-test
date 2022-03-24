@@ -1,0 +1,1 @@
+Con la herramienta interactiva del rebase, puedes parar justo después de cada confirmación que quieras modificar y cambiar su mensaje, añadir archivos, o hacer cualquier cosa que quieras Puedes ejecutar el rebase interactivamente agregando el comando -i a git rebase .
